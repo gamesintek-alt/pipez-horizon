@@ -1,5 +1,7 @@
 # Pipez Horizon
 
+<img width="2560" height="1377" alt="image" src="https://github.com/user-attachments/assets/e952db6d-1dee-4338-898b-7bf99cef88ce" />
+
 > **⚠️ WARNING: CURRENTLY NOT WORKING — THIS VERSION DOES NOT COMPILE IN THE LAUNCHER.**
 
 A native mod port of [Pipez](https://curseforge.com) (originally created by **henkelmax**) for [Horizon](https://github.com) — a Rust-based implementation of **Minecraft: Java Edition**.
