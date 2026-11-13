@@ -1,0 +1,1 @@
+fn pipez_submit(game: &crate::game::Game<'_>, _pos: [i32;3], block: &str, entity: &horizon_client::containers::ModBlockEntity, draw: &mut crate::game::native_block_entity_draw::BlockEntityDraw) {crate::game::pipez_runtime::submit(game,block,entity,draw);}

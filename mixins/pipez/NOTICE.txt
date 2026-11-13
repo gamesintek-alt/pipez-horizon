@@ -1,0 +1,10 @@
+Original inputs supplied locally by the user:
+- Pipez 1.2.33+26.3, Max Henkel. JAR metadata license: All rights reserved.
+- Pipez Dreams 1.0.0, Anwender & Antigravity (project attribution N0x64). JAR metadata license: MIT.
+- PipezLagFix 1.1.0 for 26.1.2, AlmanX21. JAR metadata license: All Rights Reserved.
+
+Original textures and translations are retained from these inputs, with namespaces adapted for the combined package.
+Their ownership and original license declarations remain unchanged. This package does not grant a new license to those assets.
+Rust runtime and development tools were prepared with Codex for the user's local Horizon installation.
+The per-slot transaction adapter uses the same transaction primitives as Horizon's MIT-licensed native_items implementation.
+Exact input hashes and engine revision are recorded in source-lock.json.

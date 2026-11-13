@@ -1,0 +1,85 @@
+{
+  "horizon": "fdc87aecdbd116bf1e08adcd062fcbaea8c2e2ca",
+  "sources": [
+    {
+      "file": "pipez-neoforge-1.2.33+26.3.jar",
+      "sha256": "f923073183784ec66e2d1e2824d515b5487de6424393dcf3165452f4aeac56c2"
+    },
+    {
+      "file": "pipezdreams-1.0.0.jar",
+      "sha256": "2fe0974b300da33b1dab59a1695f5957c308bd9e05d0b6133a555b95ec4a3478"
+    },
+    {
+      "file": "pipezlagfix-26.1.2-1.1.0.jar",
+      "sha256": "6e9921a8b43df68c756e3672dad945f76012edd85d862b2eb78989de84cf2327"
+    }
+  ],
+  "ordinary_recipes": 173,
+  "custom_recipes": [
+    {
+      "type": "pipez:clear_components",
+      "item": "#pipez:upgrades",
+      "components": [
+        "pipez:item",
+        "pipez:fluid",
+        "pipez:gas",
+        "pipez:energy"
+      ]
+    },
+    {
+      "type": "pipez:copy_components",
+      "source": "#pipez:upgrades",
+      "target": "pipez:advanced_upgrade",
+      "components": [
+        "pipez:item",
+        "pipez:fluid",
+        "pipez:gas",
+        "pipez:energy"
+      ]
+    },
+    {
+      "type": "pipez:copy_components",
+      "source": "#pipez:upgrades",
+      "target": "pipez:basic_upgrade",
+      "components": [
+        "pipez:item",
+        "pipez:fluid",
+        "pipez:gas",
+        "pipez:energy"
+      ]
+    },
+    {
+      "type": "pipez:copy_components",
+      "source": "#pipez:upgrades",
+      "target": "pipez:improved_upgrade",
+      "components": [
+        "pipez:item",
+        "pipez:fluid",
+        "pipez:gas",
+        "pipez:energy"
+      ]
+    },
+    {
+      "type": "pipez:copy_components",
+      "source": "#pipez:upgrades",
+      "target": "pipez:infinity_upgrade",
+      "components": [
+        "pipez:item",
+        "pipez:fluid",
+        "pipez:gas",
+        "pipez:energy"
+      ]
+    },
+    {
+      "type": "pipez:copy_components",
+      "source": "#pipez:upgrades",
+      "target": "pipez:ultimate_upgrade",
+      "components": [
+        "pipez:item",
+        "pipez:fluid",
+        "pipez:gas",
+        "pipez:energy"
+      ]
+    }
+  ]
+}
